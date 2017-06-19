@@ -1,0 +1,17 @@
+{
+  "name": "fileupload",
+  "homepage": "https://github.com/gaochenyang/fileUpLoad",
+  "description": "",
+  "main": "",
+  "authors": [
+    "gcy"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
